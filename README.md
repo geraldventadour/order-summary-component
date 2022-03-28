@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://https://geraldventadour.github.io/order-summary-component](https://https://geraldventadour.github.io/order-summary-component)
+- Live Site URL: [https://geraldventadour.github.io/order-summary-component](https://geraldventadour.github.io/order-summary-component)
 
 ## My process
 
